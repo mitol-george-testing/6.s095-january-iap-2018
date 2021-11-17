@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "97490edb-d1af-d10b-27c8-4045aa33a1af"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Programming for the Puzzled",
+  "course_description": "This class builds a bridge between the recreational world of algorithmic puzzles (puzzles that can be solved by algorithms) and the pragmatic world of computer programming, teaching students to program while solving puzzles. Python syntax and semantics required to understand the code are explained as needed for each puzzle.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.S095",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Programming Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
